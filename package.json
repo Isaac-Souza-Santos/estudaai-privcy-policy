@@ -1,0 +1,19 @@
+{
+  "name": "estudaai-privacy-policy",
+  "version": "1.0.0",
+  "description": "Política de Privacidade do EstudaAI",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo 'Site estático - não requer servidor'"
+  },
+  "keywords": [
+    "privacy",
+    "policy",
+    "estudaai"
+  ],
+  "author": "EstudaAI",
+  "license": "MIT",
+  "engines": {
+    "node": "18.x"
+  }
+}
